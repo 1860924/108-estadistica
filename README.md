@@ -14,3 +14,9 @@ lista de actividades del curso
 
 + Primera tarea del curso 
 + La fecha de entrega sera el dia 28.01 a las 23 horas
+
++ Clase 3: 29.01.20 (*script_1*) 
+
++: Paperclip: Clase 4:30.01.20 (*Script2*)
++ Importar base de datos en formarato *,cvs*
++ Utilizar el comando *read.csv*
